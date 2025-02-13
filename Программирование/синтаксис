@@ -1,0 +1,22 @@
+Общепринятые сокращения для названий переменных:
+
+    button - btn, кнопка
+    index - idx - i, индекс
+    buffer - buf, буфер
+    value - val, значение
+    variable - var, переменная
+    pointer - ptr, указатель
+
+
+Имена функций и методов:
+
+    get - получить значение (getValue)
+    set - установить значение (setTime)
+    print, show - показать что-то
+    read - прочитать
+    write - записать
+    change - изменить
+    clear - очистить
+    begin, start - начать
+    end, stop - закончить, остановить
+
